@@ -1,0 +1,114 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "OC_lab",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "OC_lab::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OC_lab-Debug-e5777a60d02e76adf569.json",
+					"name" : "OC_lab",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "child1_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-child1_2-Debug-59b0ee05899836e312b7.json",
+					"name" : "child1_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "child3_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-child3_2-Debug-768a5440b3460f67d42a.json",
+					"name" : "child3_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lab2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab2-Debug-419530bc6d9c1e7cfae3.json",
+					"name" : "lab2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "parent::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-parent-Debug-f300cd39c7ae55909655.json",
+					"name" : "parent",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "parent_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-parent_3-Debug-123ea777bf5ff269c2c8.json",
+					"name" : "parent_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "posix_ipc-example-server.c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-posix_ipc-example-server.c-Debug-029a75832278defeb81c.json",
+					"name" : "posix_ipc-example-server.c",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/mnt/c/Users/senya/CLionProjects/OC_lab/cmake-build-debug",
+		"source" : "/mnt/c/Users/senya/CLionProjects/OC_lab"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
