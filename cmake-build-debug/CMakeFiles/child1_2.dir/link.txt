@@ -1,0 +1,1 @@
+/usr/bin/cc  -D_POSIX_C_SOURCE=200809L -D_POSIX_C_SOURCE=200809L -g CMakeFiles/child1_2.dir/lab1/child1.c.o -o child1_2 
